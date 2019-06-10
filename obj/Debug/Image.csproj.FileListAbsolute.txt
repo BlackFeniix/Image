@@ -1,0 +1,8 @@
+C:\Users\Nikolay\Desktop\Ulearn_Projects\Image.csproj\bin\Debug\eurobot.bmp
+C:\Users\Nikolay\Desktop\Ulearn_Projects\Image.csproj\bin\Debug\Recognizer.exe.config
+C:\Users\Nikolay\Desktop\Ulearn_Projects\Image.csproj\bin\Debug\Recognizer.exe
+C:\Users\Nikolay\Desktop\Ulearn_Projects\Image.csproj\bin\Debug\Recognizer.pdb
+C:\Users\Nikolay\Desktop\Ulearn_Projects\Image.csproj\obj\Debug\Image.csprojAssemblyReference.cache
+C:\Users\Nikolay\Desktop\Ulearn_Projects\Image.csproj\obj\Debug\Image.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\Desktop\Ulearn_Projects\Image.csproj\obj\Debug\Recognizer.exe
+C:\Users\Nikolay\Desktop\Ulearn_Projects\Image.csproj\obj\Debug\Recognizer.pdb

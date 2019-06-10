@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Nikolay\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Nikolay\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_Image.1907995087.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Nikolay\Desktop\Ulearn_Projects\Image.csproj" t="IncludeRecursive">
+      <e p="App.config" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="eurobot.bmp" t="Include" />
+      <e p="GrayscaleTask.cs" t="Include" />
+      <e p="HoughTransformTask.cs" t="Include" />
+      <e p="Image.csproj" t="IncludeRecursive" />
+      <e p="Line.cs" t="Include" />
+      <e p="MedianFilterTask.cs" t="Include" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Pixel.cs" t="Include" />
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include" />
+      <e p="SobelFilterTask.cs" t="Include" />
+      <e p="ThresholdFilterTask.cs" t="Include" />
+    </e>
+  </component>
+</project>
