@@ -35,10 +35,11 @@ namespace Recognizer
 
         public static double[,] Transpose(double[,] sx)   //транспонирование матрицы 
         {
-            var sy = new double[sx.GetLength(0), sx.GetLength(1)];
-            for (var i = 0; i < sx.GetLength(0); i++)
+            var size = sx.GetLength(0);
+            var sy = new double[size, size];
+            for (var i = 0; i < size; i++)
             {
-                for (var j = 0; j < sx.GetLength(1); j++)
+                for (var j = 0; j < size; j++)
                 {
                     sy[i, j] = sx[j, i];
                 }
